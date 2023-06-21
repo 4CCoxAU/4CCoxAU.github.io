@@ -67,11 +67,11 @@ header {
   }
   
   nav ul li a {
-    background-color: #ff5c8f;
+    background-color: #fc4e07;
   }
   
   button {
-    background-color: #ff5c8f;
+    background-color: #fc4e07;
     color: #fff;
     border: none;
     padding: 10px 20px;
@@ -81,5 +81,5 @@ header {
   }
   
   button:hover {
-    background-color: #ff2f66;
+    background-color: #4682b4;
   }
