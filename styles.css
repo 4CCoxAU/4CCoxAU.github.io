@@ -1,6 +1,6 @@
 /* Header and Navigation */
 header {
-    background-color: #333;
+    background-color: #fc4e07;
     padding: 20px;
     text-align: center;
   }
@@ -54,7 +54,7 @@ header {
   
   /* Footer */
   footer {
-    background-color: #333;
+    background-color: #fc4e07;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -71,7 +71,7 @@ header {
   }
   
   button {
-    background-color: #fc4e07;
+    background-color: #4682b4;
     color: #fff;
     border: none;
     padding: 10px 20px;
